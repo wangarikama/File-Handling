@@ -1,12 +1,12 @@
 Files Included
 1. # Openfile.py:
-Creates input.txt and writes five lines of sample text into it.
+Creates input.txt and writes four lines of sample text into it.
 
 2. # filemodifier.py:
 Reads input.txt, converts its content to uppercase, counts the words, and writes the result into output.txt.
 
 3. # input.txt:
-The sample input file with five lines of text.
+The sample input file with four ines of text.
 
 4. # output.txt:
 Output from filemodifier.py — shows the uppercase content and word count.
